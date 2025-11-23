@@ -1,0 +1,301 @@
+ID Transporte,Data,Produto,Quantidade (kg),Origem,Destino,Veículo,Motorista,Temperatura (°C),Status
+T001,2025-01-02,Maçã,778,Fortaleza,Curitiba,Van Refrigerada,Maria Souza,4,Atrasado
+T002,2025-01-03,Carne,1174,Rio de Janeiro,Campina Grande,Caminhão Baú,Juliana Melo,11,Atrasado
+T003,2025-01-04,Banana,931,Natal,Fortaleza,Van Refrigerada,Paula Rocha,2,Atrasado
+T004,2025-01-05,Tomate,669,Natal,Caxias do Sul,Caminhão Baú,Marcos Dias,18,Em trânsito
+T005,2025-01-06,Banana,1510,Recife,São Paulo,Caminhão Baú,Pedro Alves,19,Entregue
+T006,2025-01-07,Maçã,1967,Belém,Caxias do Sul,Caminhão Baú,Luiz Santos,11,Entregue
+T007,2025-01-08,Queijo,1805,Belo Horizonte,Rio de Janeiro,Van Refrigerada,Fernando Reis,18,Atrasado
+T008,2025-01-09,Peixe,1511,Rio de Janeiro,Rio de Janeiro,Caminhão Frigorífico,Luiz Santos,12,Atrasado
+T009,2025-01-10,Carne,860,Manaus,São Paulo,Van Refrigerada,Juliana Melo,11,Atrasado
+T010,2025-01-11,Maçã,786,Fortaleza,Natal,Van Refrigerada,Juliana Melo,8,Atrasado
+T011,2025-01-12,Leite,1006,Belém,Curitiba,Van Refrigerada,João Silva,18,Atrasado
+T012,2025-01-13,Arroz,707,João Pessoa,Salvador,Van Refrigerada,Carlos Lima,15,Atrasado
+T013,2025-01-14,Tomate,1235,Campina Grande,Salvador,Caminhão Frigorífico,Maria Souza,7,Em trânsito
+T014,2025-01-15,Feijão,779,Recife,São Paulo,Caminhão Baú,Maria Souza,8,Atrasado
+T015,2025-01-16,Banana,1355,Campina Grande,Rio de Janeiro,Caminhão Baú,João Silva,3,Entregue
+T016,2025-01-17,Queijo,1574,Fortaleza,São Paulo,Van Refrigerada,Paula Rocha,15,Em trânsito
+T017,2025-01-18,Leite,1251,Natal,Campina Grande,Caminhão Frigorífico,Fernando Reis,8,Atrasado
+T018,2025-01-19,Leite,749,Manaus,Belo Horizonte,Van Refrigerada,Paula Rocha,20,Atrasado
+T019,2025-01-20,Peixe,1443,Salvador,Florianópolis,Caminhão Baú,Ana Costa,18,Atrasado
+T020,2025-01-21,Tomate,1265,Recife,Florianópolis,Caminhão Frigorífico,Maria Souza,5,Em trânsito
+T021,2025-01-22,Tomate,1389,Rio de Janeiro,Belém,Van Refrigerada,Ana Costa,14,Atrasado
+T022,2025-01-23,Tomate,1827,Belo Horizonte,Porto Alegre,Caminhão Baú,Ana Costa,19,Atrasado
+T023,2025-01-24,Frango,1099,Rio de Janeiro,Natal,Van Refrigerada,Paula Rocha,9,Entregue
+T024,2025-01-25,Feijão,1423,Manaus,Recife,Caminhão Frigorífico,Juliana Melo,11,Entregue
+T025,2025-01-26,Maçã,1629,Caxias do Sul,Salvador,Caminhão Frigorífico,Juliana Melo,5,Atrasado
+T026,2025-01-27,Feijão,756,Manaus,Curitiba,Caminhão Baú,Juliana Melo,6,Atrasado
+T027,2025-01-28,Peixe,1983,Fortaleza,Belém,Caminhão Baú,João Silva,17,Atrasado
+T028,2025-01-29,Feijão,1376,Florianópolis,João Pessoa,Van Refrigerada,Juliana Melo,11,Em trânsito
+T029,2025-01-30,Tomate,667,Brasília,Caxias do Sul,Van Refrigerada,Luiz Santos,11,Atrasado
+T030,2025-01-31,Leite,1794,Campina Grande,Caxias do Sul,Van Refrigerada,Ana Costa,12,Em trânsito
+T031,2025-02-01,Frango,1813,São Paulo,Recife,Caminhão Frigorífico,Carlos Lima,4,Atrasado
+T032,2025-02-02,Maçã,1211,Florianópolis,Manaus,Caminhão Frigorífico,Ana Costa,5,Em trânsito
+T033,2025-02-03,Maçã,1489,Campina Grande,Caxias do Sul,Caminhão Frigorífico,Luiz Santos,18,Atrasado
+T034,2025-02-04,Maçã,1545,Campina Grande,Belém,Caminhão Baú,Paula Rocha,5,Atrasado
+T035,2025-02-05,Feijão,768,Manaus,Salvador,Van Refrigerada,Pedro Alves,7,Atrasado
+T036,2025-02-06,Tomate,1493,Porto Alegre,Salvador,Caminhão Frigorífico,Paula Rocha,17,Em trânsito
+T037,2025-02-07,Tomate,797,Fortaleza,Brasília,Van Refrigerada,Paula Rocha,20,Atrasado
+T038,2025-02-08,Banana,1046,Rio de Janeiro,Campina Grande,Caminhão Frigorífico,Juliana Melo,9,Atrasado
+T039,2025-02-09,Peixe,1806,Porto Alegre,Salvador,Van Refrigerada,Maria Souza,17,Em trânsito
+T040,2025-02-10,Queijo,936,Recife,São Paulo,Van Refrigerada,Ana Costa,12,Em trânsito
+T041,2025-02-11,Carne,797,Florianópolis,Fortaleza,Van Refrigerada,Luiz Santos,14,Entregue
+T042,2025-02-12,Feijão,1904,Rio de Janeiro,Belém,Caminhão Frigorífico,Carlos Lima,6,Entregue
+T043,2025-02-13,Banana,1923,Fortaleza,Manaus,Van Refrigerada,Maria Souza,14,Entregue
+T044,2025-02-14,Maçã,1397,Caxias do Sul,Curitiba,Van Refrigerada,Fernando Reis,4,Atrasado
+T045,2025-02-15,Banana,1721,Recife,Belo Horizonte,Caminhão Baú,Ana Costa,2,Entregue
+T046,2025-02-16,Queijo,1169,Florianópolis,Brasília,Van Refrigerada,Carlos Lima,11,Entregue
+T047,2025-02-17,Peixe,1134,João Pessoa,Belo Horizonte,Van Refrigerada,Fernando Reis,5,Entregue
+T048,2025-02-18,Queijo,589,Salvador,São Paulo,Caminhão Frigorífico,Pedro Alves,2,Atrasado
+T049,2025-02-19,Maçã,591,Campina Grande,Rio de Janeiro,Caminhão Frigorífico,João Silva,15,Em trânsito
+T050,2025-02-20,Frango,820,Recife,Brasília,Caminhão Frigorífico,Maria Souza,11,Atrasado
+T051,2025-02-21,Maçã,1589,Caxias do Sul,São Paulo,Caminhão Baú,Marcos Dias,20,Entregue
+T052,2025-02-22,Queijo,1991,Natal,Rio de Janeiro,Caminhão Frigorífico,Pedro Alves,15,Atrasado
+T053,2025-02-23,Queijo,970,Salvador,Belém,Van Refrigerada,Juliana Melo,17,Entregue
+T054,2025-02-24,Leite,944,Curitiba,Curitiba,Van Refrigerada,Paula Rocha,8,Em trânsito
+T055,2025-02-25,Arroz,1767,Campina Grande,Porto Alegre,Caminhão Baú,Maria Souza,13,Em trânsito
+T056,2025-02-26,Banana,1729,Brasília,Recife,Caminhão Baú,Maria Souza,18,Entregue
+T057,2025-02-27,Feijão,1470,Campina Grande,Rio de Janeiro,Van Refrigerada,Juliana Melo,8,Em trânsito
+T058,2025-02-28,Carne,1278,Caxias do Sul,Florianópolis,Caminhão Baú,Ana Costa,5,Atrasado
+T059,2025-03-01,Maçã,1334,Belém,Florianópolis,Caminhão Frigorífico,Juliana Melo,13,Em trânsito
+T060,2025-03-02,Carne,1539,Salvador,Belo Horizonte,Caminhão Frigorífico,Ana Costa,4,Atrasado
+T061,2025-03-03,Banana,1638,Natal,Brasília,Caminhão Frigorífico,Ana Costa,11,Entregue
+T062,2025-03-04,Peixe,1311,Rio de Janeiro,João Pessoa,Caminhão Frigorífico,Pedro Alves,5,Atrasado
+T063,2025-03-05,Frango,1193,Salvador,Belém,Caminhão Frigorífico,Paula Rocha,18,Entregue
+T064,2025-03-06,Tomate,639,Rio de Janeiro,Caxias do Sul,Caminhão Baú,João Silva,10,Atrasado
+T065,2025-03-07,Frango,1478,Salvador,Recife,Caminhão Baú,Paula Rocha,7,Entregue
+T066,2025-03-08,Peixe,1439,Rio de Janeiro,Recife,Caminhão Frigorífico,João Silva,11,Entregue
+T067,2025-03-09,Leite,1821,Curitiba,Caxias do Sul,Caminhão Baú,Pedro Alves,9,Entregue
+T068,2025-03-10,Carne,714,Recife,Salvador,Caminhão Baú,Fernando Reis,4,Entregue
+T069,2025-03-11,Carne,1637,Natal,Florianópolis,Van Refrigerada,Ana Costa,6,Em trânsito
+T070,2025-03-12,Arroz,1174,Natal,Brasília,Caminhão Frigorífico,Marcos Dias,6,Atrasado
+T071,2025-03-13,Peixe,1063,Salvador,Curitiba,Caminhão Frigorífico,Maria Souza,2,Em trânsito
+T072,2025-03-14,Leite,1657,Curitiba,Caxias do Sul,Caminhão Frigorífico,Ana Costa,15,Em trânsito
+T073,2025-03-15,Frango,973,Recife,João Pessoa,Van Refrigerada,Marcos Dias,16,Entregue
+T074,2025-03-16,Arroz,1447,Rio de Janeiro,Belo Horizonte,Caminhão Frigorífico,Pedro Alves,8,Entregue
+T075,2025-03-17,Queijo,1447,Brasília,Brasília,Van Refrigerada,Fernando Reis,15,Em trânsito
+T076,2025-03-18,Feijão,705,São Paulo,Porto Alegre,Van Refrigerada,João Silva,4,Em trânsito
+T077,2025-03-19,Tomate,1364,Florianópolis,Belo Horizonte,Van Refrigerada,Maria Souza,8,Entregue
+T078,2025-03-20,Banana,650,Belém,Florianópolis,Caminhão Frigorífico,Carlos Lima,10,Atrasado
+T079,2025-03-21,Maçã,961,Belém,Natal,Van Refrigerada,Maria Souza,14,Em trânsito
+T080,2025-03-22,Tomate,631,Recife,Curitiba,Van Refrigerada,Marcos Dias,14,Atrasado
+T081,2025-03-23,Carne,527,Belo Horizonte,Recife,Van Refrigerada,Carlos Lima,12,Entregue
+T082,2025-03-24,Queijo,1810,Brasília,Natal,Caminhão Baú,Maria Souza,16,Em trânsito
+T083,2025-03-25,Maçã,1011,Caxias do Sul,Belém,Van Refrigerada,Paula Rocha,15,Entregue
+T084,2025-03-26,Carne,1213,Salvador,Rio de Janeiro,Caminhão Baú,Luiz Santos,20,Atrasado
+T085,2025-03-27,Banana,1266,Fortaleza,Belo Horizonte,Caminhão Baú,Maria Souza,2,Entregue
+T086,2025-03-28,Carne,1964,Brasília,Salvador,Caminhão Baú,Fernando Reis,13,Entregue
+T087,2025-03-29,Queijo,700,Curitiba,João Pessoa,Caminhão Frigorífico,Luiz Santos,3,Atrasado
+T088,2025-03-30,Frango,1784,Manaus,Curitiba,Van Refrigerada,Paula Rocha,2,Atrasado
+T089,2025-03-31,Feijão,1624,Florianópolis,Salvador,Caminhão Frigorífico,Ana Costa,20,Em trânsito
+T090,2025-04-01,Peixe,906,Campina Grande,Curitiba,Caminhão Frigorífico,Maria Souza,3,Entregue
+T091,2025-04-02,Arroz,1483,Campina Grande,Natal,Van Refrigerada,Luiz Santos,5,Entregue
+T092,2025-04-03,Frango,581,Rio de Janeiro,Florianópolis,Van Refrigerada,Luiz Santos,17,Em trânsito
+T093,2025-04-04,Feijão,1943,Campina Grande,Fortaleza,Caminhão Frigorífico,Fernando Reis,17,Atrasado
+T094,2025-04-05,Leite,1874,Fortaleza,São Paulo,Caminhão Frigorífico,Juliana Melo,3,Entregue
+T095,2025-04-06,Maçã,925,Manaus,Campina Grande,Caminhão Frigorífico,Juliana Melo,20,Atrasado
+T096,2025-04-07,Feijão,580,Belo Horizonte,Natal,Van Refrigerada,Paula Rocha,2,Atrasado
+T097,2025-04-08,Tomate,681,Belém,Fortaleza,Caminhão Baú,Marcos Dias,5,Atrasado
+T098,2025-04-09,Leite,1281,Belo Horizonte,Recife,Caminhão Baú,Ana Costa,15,Entregue
+T099,2025-04-10,Carne,1254,Fortaleza,Belém,Van Refrigerada,Pedro Alves,19,Entregue
+T100,2025-04-11,Carne,573,João Pessoa,Curitiba,Van Refrigerada,Marcos Dias,6,Entregue
+T101,2025-04-12,Banana,777,Salvador,Florianópolis,Caminhão Baú,Fernando Reis,4,Entregue
+T102,2025-04-13,Feijão,846,Salvador,Natal,Van Refrigerada,Carlos Lima,8,Entregue
+T103,2025-04-14,Feijão,792,Recife,Curitiba,Van Refrigerada,Ana Costa,10,Entregue
+T104,2025-04-15,Peixe,531,Belém,Salvador,Caminhão Frigorífico,Luiz Santos,9,Entregue
+T105,2025-04-16,Tomate,1984,Curitiba,Florianópolis,Van Refrigerada,Marcos Dias,13,Atrasado
+T106,2025-04-17,Peixe,728,São Paulo,Belém,Caminhão Frigorífico,João Silva,20,Entregue
+T107,2025-04-18,Tomate,1961,João Pessoa,Campina Grande,Caminhão Baú,Fernando Reis,10,Atrasado
+T108,2025-04-19,Arroz,1563,Porto Alegre,João Pessoa,Van Refrigerada,Pedro Alves,4,Em trânsito
+T109,2025-04-20,Tomate,1835,Florianópolis,João Pessoa,Caminhão Baú,Luiz Santos,7,Entregue
+T110,2025-04-21,Peixe,1141,Recife,Natal,Caminhão Baú,Luiz Santos,18,Entregue
+T111,2025-04-22,Tomate,928,Fortaleza,Belo Horizonte,Caminhão Baú,Marcos Dias,13,Atrasado
+T112,2025-04-23,Queijo,1957,Campina Grande,Brasília,Caminhão Baú,Ana Costa,12,Atrasado
+T113,2025-04-24,Leite,786,Recife,Fortaleza,Caminhão Frigorífico,Fernando Reis,14,Entregue
+T114,2025-04-25,Leite,919,Porto Alegre,Porto Alegre,Caminhão Frigorífico,Maria Souza,10,Em trânsito
+T115,2025-04-26,Banana,1417,Salvador,Porto Alegre,Van Refrigerada,Fernando Reis,17,Em trânsito
+T116,2025-04-27,Maçã,1700,Belém,Belém,Caminhão Baú,Luiz Santos,7,Entregue
+T117,2025-04-28,Feijão,938,Rio de Janeiro,João Pessoa,Caminhão Baú,Fernando Reis,19,Em trânsito
+T118,2025-04-29,Feijão,673,Brasília,Belo Horizonte,Caminhão Frigorífico,Ana Costa,12,Atrasado
+T119,2025-04-30,Queijo,1339,Porto Alegre,Caxias do Sul,Van Refrigerada,Maria Souza,6,Entregue
+T120,2025-05-01,Maçã,1849,João Pessoa,Rio de Janeiro,Van Refrigerada,Luiz Santos,5,Em trânsito
+T121,2025-05-02,Banana,1118,Curitiba,João Pessoa,Caminhão Baú,Ana Costa,20,Entregue
+T122,2025-05-03,Banana,1653,Belém,Belém,Caminhão Frigorífico,Carlos Lima,11,Em trânsito
+T123,2025-05-04,Maçã,829,Belo Horizonte,Caxias do Sul,Caminhão Frigorífico,Maria Souza,17,Atrasado
+T124,2025-05-05,Queijo,1335,Rio de Janeiro,Curitiba,Caminhão Baú,Carlos Lima,12,Atrasado
+T125,2025-05-06,Tomate,1902,Belém,Belém,Caminhão Baú,Luiz Santos,19,Entregue
+T126,2025-05-07,Maçã,1045,Florianópolis,João Pessoa,Caminhão Frigorífico,João Silva,7,Atrasado
+T127,2025-05-08,Banana,998,Manaus,Belém,Van Refrigerada,Luiz Santos,17,Em trânsito
+T128,2025-05-09,Tomate,602,Recife,Caxias do Sul,Van Refrigerada,Luiz Santos,19,Entregue
+T129,2025-05-10,Banana,1883,Belo Horizonte,São Paulo,Caminhão Baú,Paula Rocha,2,Entregue
+T130,2025-05-11,Carne,1000,Campina Grande,São Paulo,Van Refrigerada,Juliana Melo,3,Em trânsito
+T131,2025-05-12,Queijo,1340,João Pessoa,Caxias do Sul,Van Refrigerada,Marcos Dias,16,Atrasado
+T132,2025-05-13,Tomate,526,Fortaleza,Curitiba,Caminhão Baú,Luiz Santos,16,Atrasado
+T133,2025-05-14,Leite,707,Porto Alegre,Manaus,Van Refrigerada,Pedro Alves,17,Atrasado
+T134,2025-05-15,Peixe,1141,Recife,Recife,Caminhão Frigorífico,Juliana Melo,15,Atrasado
+T135,2025-05-16,Frango,1312,Recife,Salvador,Van Refrigerada,Luiz Santos,2,Em trânsito
+T136,2025-05-17,Frango,1636,Salvador,Manaus,Van Refrigerada,Juliana Melo,5,Entregue
+T137,2025-05-18,Queijo,1543,Brasília,Curitiba,Van Refrigerada,Juliana Melo,12,Entregue
+T138,2025-05-19,Queijo,1519,Campina Grande,Fortaleza,Caminhão Frigorífico,Maria Souza,11,Atrasado
+T139,2025-05-20,Leite,694,Porto Alegre,Salvador,Caminhão Frigorífico,Marcos Dias,8,Entregue
+T140,2025-05-21,Feijão,1398,Porto Alegre,Brasília,Van Refrigerada,Fernando Reis,12,Entregue
+T141,2025-05-22,Banana,1109,Fortaleza,Rio de Janeiro,Caminhão Frigorífico,Juliana Melo,14,Entregue
+T142,2025-05-23,Carne,833,Curitiba,João Pessoa,Caminhão Frigorífico,Fernando Reis,20,Em trânsito
+T143,2025-05-24,Queijo,1711,Florianópolis,Recife,Caminhão Baú,Carlos Lima,13,Entregue
+T144,2025-05-25,Feijão,1838,Curitiba,João Pessoa,Caminhão Frigorífico,Juliana Melo,13,Atrasado
+T145,2025-05-26,Feijão,1922,Brasília,Belém,Caminhão Baú,Paula Rocha,19,Em trânsito
+T146,2025-05-27,Queijo,954,Belém,Salvador,Caminhão Frigorífico,Juliana Melo,20,Entregue
+T147,2025-05-28,Maçã,1758,Curitiba,Florianópolis,Van Refrigerada,Marcos Dias,6,Entregue
+T148,2025-05-29,Carne,1347,Caxias do Sul,Belo Horizonte,Caminhão Frigorífico,Fernando Reis,18,Em trânsito
+T149,2025-05-30,Queijo,1020,Porto Alegre,Manaus,Caminhão Baú,Ana Costa,20,Atrasado
+T150,2025-05-31,Tomate,675,Florianópolis,Curitiba,Caminhão Baú,Pedro Alves,4,Atrasado
+T151,2025-06-01,Peixe,1371,Caxias do Sul,Salvador,Caminhão Baú,João Silva,15,Atrasado
+T152,2025-06-02,Tomate,566,Brasília,Porto Alegre,Caminhão Baú,Juliana Melo,6,Entregue
+T153,2025-06-03,Maçã,673,São Paulo,Recife,Caminhão Frigorífico,Luiz Santos,6,Entregue
+T154,2025-06-04,Arroz,949,Curitiba,Belém,Van Refrigerada,Marcos Dias,20,Em trânsito
+T155,2025-06-05,Banana,814,Belo Horizonte,São Paulo,Caminhão Frigorífico,Luiz Santos,8,Atrasado
+T156,2025-06-06,Tomate,1829,Porto Alegre,Curitiba,Caminhão Baú,Marcos Dias,7,Em trânsito
+T157,2025-06-07,Leite,1369,Belo Horizonte,Florianópolis,Caminhão Frigorífico,Ana Costa,13,Entregue
+T158,2025-06-08,Frango,1585,Natal,Manaus,Van Refrigerada,Paula Rocha,7,Entregue
+T159,2025-06-09,Peixe,1818,Campina Grande,Caxias do Sul,Caminhão Frigorífico,João Silva,19,Em trânsito
+T160,2025-06-10,Carne,952,Campina Grande,São Paulo,Caminhão Frigorífico,Pedro Alves,17,Entregue
+T161,2025-06-11,Leite,613,João Pessoa,Fortaleza,Caminhão Baú,Marcos Dias,18,Em trânsito
+T162,2025-06-12,Tomate,1272,São Paulo,São Paulo,Caminhão Baú,Marcos Dias,15,Em trânsito
+T163,2025-06-13,Arroz,1793,Porto Alegre,Rio de Janeiro,Van Refrigerada,Ana Costa,6,Entregue
+T164,2025-06-14,Feijão,1674,Caxias do Sul,Belo Horizonte,Caminhão Baú,João Silva,9,Entregue
+T165,2025-06-15,Tomate,1087,Brasília,Rio de Janeiro,Caminhão Baú,João Silva,9,Em trânsito
+T166,2025-06-16,Feijão,790,Caxias do Sul,Florianópolis,Caminhão Baú,Luiz Santos,15,Em trânsito
+T167,2025-06-17,Carne,1564,Natal,Caxias do Sul,Caminhão Baú,João Silva,19,Entregue
+T168,2025-06-18,Banana,1349,São Paulo,Rio de Janeiro,Van Refrigerada,Pedro Alves,4,Em trânsito
+T169,2025-06-19,Leite,1743,Florianópolis,Brasília,Van Refrigerada,Ana Costa,2,Entregue
+T170,2025-06-20,Carne,978,Caxias do Sul,João Pessoa,Caminhão Frigorífico,Juliana Melo,2,Atrasado
+T171,2025-06-21,Carne,509,Belém,São Paulo,Van Refrigerada,Maria Souza,6,Entregue
+T172,2025-06-22,Feijão,722,Manaus,Salvador,Van Refrigerada,João Silva,14,Em trânsito
+T173,2025-06-23,Maçã,722,Campina Grande,João Pessoa,Caminhão Baú,Luiz Santos,18,Em trânsito
+T174,2025-06-24,Maçã,1923,Florianópolis,Natal,Caminhão Frigorífico,Pedro Alves,10,Em trânsito
+T175,2025-06-25,Maçã,1572,Campina Grande,Fortaleza,Van Refrigerada,Carlos Lima,9,Em trânsito
+T176,2025-06-26,Tomate,922,Manaus,Belém,Van Refrigerada,Maria Souza,4,Atrasado
+T177,2025-06-27,Frango,1914,Manaus,Curitiba,Caminhão Baú,Luiz Santos,7,Em trânsito
+T178,2025-06-28,Maçã,1201,São Paulo,Recife,Caminhão Frigorífico,Maria Souza,18,Em trânsito
+T179,2025-06-29,Tomate,858,Manaus,Manaus,Caminhão Baú,Pedro Alves,20,Entregue
+T180,2025-06-30,Tomate,1541,João Pessoa,João Pessoa,Caminhão Frigorífico,João Silva,9,Em trânsito
+T181,2025-07-01,Frango,893,Campina Grande,Belo Horizonte,Van Refrigerada,João Silva,6,Em trânsito
+T182,2025-07-02,Tomate,1217,Natal,Brasília,Van Refrigerada,Ana Costa,8,Entregue
+T183,2025-07-03,Tomate,1182,Campina Grande,Belo Horizonte,Caminhão Baú,Maria Souza,8,Atrasado
+T184,2025-07-04,Banana,1575,São Paulo,Belo Horizonte,Caminhão Baú,Paula Rocha,5,Em trânsito
+T185,2025-07-05,Queijo,1109,Brasília,Porto Alegre,Caminhão Frigorífico,Paula Rocha,18,Atrasado
+T186,2025-07-06,Arroz,1957,Natal,São Paulo,Van Refrigerada,Juliana Melo,14,Atrasado
+T187,2025-07-07,Queijo,902,Manaus,Florianópolis,Caminhão Frigorífico,Marcos Dias,10,Em trânsito
+T188,2025-07-08,Leite,644,Manaus,Florianópolis,Caminhão Baú,João Silva,12,Entregue
+T189,2025-07-09,Tomate,1292,São Paulo,Porto Alegre,Caminhão Frigorífico,Marcos Dias,9,Atrasado
+T190,2025-07-10,Queijo,892,Campina Grande,Curitiba,Caminhão Baú,Paula Rocha,5,Atrasado
+T191,2025-07-11,Arroz,1793,Belém,Rio de Janeiro,Caminhão Frigorífico,Ana Costa,10,Entregue
+T192,2025-07-12,Frango,1824,Manaus,São Paulo,Caminhão Frigorífico,Fernando Reis,4,Atrasado
+T193,2025-07-13,Peixe,737,Florianópolis,Recife,Caminhão Frigorífico,João Silva,6,Atrasado
+T194,2025-07-14,Frango,597,Salvador,João Pessoa,Caminhão Frigorífico,Luiz Santos,8,Em trânsito
+T195,2025-07-15,Banana,1739,Belo Horizonte,Salvador,Caminhão Frigorífico,Pedro Alves,15,Atrasado
+T196,2025-07-16,Queijo,958,Brasília,Florianópolis,Caminhão Frigorífico,Pedro Alves,3,Atrasado
+T197,2025-07-17,Leite,603,Recife,Salvador,Caminhão Frigorífico,Juliana Melo,8,Atrasado
+T198,2025-07-18,Tomate,1364,Florianópolis,Caxias do Sul,Van Refrigerada,Ana Costa,17,Em trânsito
+T199,2025-07-19,Carne,555,Rio de Janeiro,Salvador,Caminhão Baú,Luiz Santos,12,Entregue
+T200,2025-07-20,Leite,558,Belo Horizonte,João Pessoa,Caminhão Frigorífico,Paula Rocha,6,Entregue
+T201,2025-07-21,Banana,1241,João Pessoa,Belém,Caminhão Frigorífico,Fernando Reis,20,Em trânsito
+T202,2025-07-22,Maçã,1890,Belém,Manaus,Van Refrigerada,Maria Souza,20,Em trânsito
+T203,2025-07-23,Arroz,1815,Natal,Belém,Van Refrigerada,Marcos Dias,19,Atrasado
+T204,2025-07-24,Leite,984,Belém,Rio de Janeiro,Caminhão Frigorífico,Maria Souza,4,Entregue
+T205,2025-07-25,Peixe,1085,São Paulo,São Paulo,Caminhão Frigorífico,Ana Costa,8,Atrasado
+T206,2025-07-26,Peixe,1349,Caxias do Sul,Rio de Janeiro,Caminhão Baú,Carlos Lima,16,Atrasado
+T207,2025-07-27,Banana,1796,Curitiba,São Paulo,Van Refrigerada,Ana Costa,2,Atrasado
+T208,2025-07-28,Queijo,1694,Caxias do Sul,Brasília,Caminhão Frigorífico,Carlos Lima,12,Em trânsito
+T209,2025-07-29,Peixe,1181,Caxias do Sul,Brasília,Van Refrigerada,Carlos Lima,17,Entregue
+T210,2025-07-30,Queijo,728,Brasília,Belém,Van Refrigerada,Marcos Dias,16,Entregue
+T211,2025-07-31,Frango,1975,Natal,Campina Grande,Caminhão Frigorífico,Ana Costa,14,Em trânsito
+T212,2025-08-01,Carne,864,Campina Grande,Porto Alegre,Caminhão Frigorífico,Pedro Alves,5,Entregue
+T213,2025-08-02,Banana,848,Salvador,Belém,Caminhão Frigorífico,Juliana Melo,12,Entregue
+T214,2025-08-03,Tomate,902,São Paulo,Manaus,Van Refrigerada,Juliana Melo,7,Entregue
+T215,2025-08-04,Frango,981,Belo Horizonte,Belo Horizonte,Van Refrigerada,Fernando Reis,8,Em trânsito
+T216,2025-08-05,Leite,1939,Recife,Fortaleza,Van Refrigerada,Paula Rocha,8,Em trânsito
+T217,2025-08-06,Leite,635,Porto Alegre,Belém,Caminhão Baú,Paula Rocha,19,Em trânsito
+T218,2025-08-07,Arroz,583,Salvador,Fortaleza,Caminhão Frigorífico,Carlos Lima,7,Atrasado
+T219,2025-08-08,Maçã,675,Curitiba,Manaus,Caminhão Frigorífico,Marcos Dias,17,Entregue
+T220,2025-08-09,Feijão,1410,Salvador,Brasília,Caminhão Baú,Luiz Santos,20,Atrasado
+T221,2025-08-10,Tomate,1521,Curitiba,Florianópolis,Van Refrigerada,Paula Rocha,4,Atrasado
+T222,2025-08-11,Leite,745,Manaus,Recife,Van Refrigerada,João Silva,13,Entregue
+T223,2025-08-12,Peixe,870,Campina Grande,Caxias do Sul,Caminhão Baú,João Silva,6,Em trânsito
+T224,2025-08-13,Frango,1627,João Pessoa,Natal,Van Refrigerada,Marcos Dias,9,Entregue
+T225,2025-08-14,Feijão,805,Florianópolis,Natal,Van Refrigerada,Luiz Santos,3,Entregue
+T226,2025-08-15,Feijão,1366,Belém,Salvador,Caminhão Frigorífico,Luiz Santos,15,Em trânsito
+T227,2025-08-16,Feijão,1907,Manaus,Porto Alegre,Caminhão Frigorífico,Juliana Melo,17,Entregue
+T228,2025-08-17,Arroz,861,Salvador,Campina Grande,Van Refrigerada,Fernando Reis,3,Em trânsito
+T229,2025-08-18,Banana,1140,Caxias do Sul,Caxias do Sul,Caminhão Frigorífico,Luiz Santos,2,Em trânsito
+T230,2025-08-19,Banana,1742,Brasília,Caxias do Sul,Caminhão Baú,Luiz Santos,12,Atrasado
+T231,2025-08-20,Arroz,1384,Campina Grande,Rio de Janeiro,Caminhão Baú,Maria Souza,15,Em trânsito
+T232,2025-08-21,Feijão,703,Brasília,Rio de Janeiro,Caminhão Frigorífico,João Silva,4,Atrasado
+T233,2025-08-22,Peixe,1016,Belo Horizonte,Natal,Caminhão Frigorífico,Fernando Reis,7,Em trânsito
+T234,2025-08-23,Leite,1629,São Paulo,Salvador,Caminhão Baú,Luiz Santos,11,Atrasado
+T235,2025-08-24,Arroz,509,João Pessoa,Manaus,Caminhão Frigorífico,Juliana Melo,20,Entregue
+T236,2025-08-25,Feijão,1847,Salvador,Belo Horizonte,Van Refrigerada,Ana Costa,2,Atrasado
+T237,2025-08-26,Feijão,1565,Fortaleza,Natal,Caminhão Baú,Luiz Santos,20,Atrasado
+T238,2025-08-27,Leite,1346,Porto Alegre,João Pessoa,Van Refrigerada,Carlos Lima,2,Em trânsito
+T239,2025-08-28,Carne,646,São Paulo,Porto Alegre,Caminhão Frigorífico,Juliana Melo,11,Em trânsito
+T240,2025-08-29,Carne,1800,Natal,Florianópolis,Caminhão Frigorífico,Ana Costa,2,Entregue
+T241,2025-08-30,Leite,1324,Natal,Porto Alegre,Caminhão Baú,Luiz Santos,17,Entregue
+T242,2025-08-31,Peixe,1992,Brasília,Caxias do Sul,Van Refrigerada,Maria Souza,14,Atrasado
+T243,2025-09-01,Banana,1790,Manaus,Campina Grande,Van Refrigerada,Pedro Alves,7,Entregue
+T244,2025-09-02,Queijo,1127,Caxias do Sul,Natal,Van Refrigerada,Maria Souza,7,Em trânsito
+T245,2025-09-03,Maçã,668,São Paulo,Florianópolis,Caminhão Frigorífico,Carlos Lima,13,Entregue
+T246,2025-09-04,Maçã,618,Recife,Fortaleza,Caminhão Frigorífico,Fernando Reis,8,Atrasado
+T247,2025-09-05,Maçã,1804,Salvador,Manaus,Van Refrigerada,Paula Rocha,9,Entregue
+T248,2025-09-06,Frango,1294,São Paulo,Belém,Van Refrigerada,João Silva,6,Em trânsito
+T249,2025-09-07,Feijão,1676,Rio de Janeiro,Caxias do Sul,Caminhão Frigorífico,Carlos Lima,3,Em trânsito
+T250,2025-09-08,Peixe,1344,São Paulo,Manaus,Van Refrigerada,Carlos Lima,20,Entregue
+T251,2025-09-09,Frango,1353,Brasília,Curitiba,Caminhão Frigorífico,Maria Souza,20,Em trânsito
+T252,2025-09-10,Peixe,835,Curitiba,Curitiba,Caminhão Frigorífico,Luiz Santos,3,Em trânsito
+T253,2025-09-11,Peixe,1671,João Pessoa,Fortaleza,Caminhão Frigorífico,Juliana Melo,9,Entregue
+T254,2025-09-12,Feijão,1883,São Paulo,São Paulo,Caminhão Baú,Pedro Alves,10,Atrasado
+T255,2025-09-13,Banana,1070,Recife,São Paulo,Caminhão Frigorífico,Pedro Alves,9,Entregue
+T256,2025-09-14,Arroz,565,São Paulo,Porto Alegre,Caminhão Frigorífico,Marcos Dias,7,Em trânsito
+T257,2025-09-15,Frango,574,Manaus,Recife,Caminhão Frigorífico,Juliana Melo,9,Atrasado
+T258,2025-09-16,Tomate,1532,Belo Horizonte,João Pessoa,Caminhão Frigorífico,Marcos Dias,15,Atrasado
+T259,2025-09-17,Arroz,1921,Fortaleza,São Paulo,Van Refrigerada,Marcos Dias,3,Em trânsito
+T260,2025-09-18,Peixe,1160,Belo Horizonte,Porto Alegre,Caminhão Frigorífico,Carlos Lima,10,Atrasado
+T261,2025-09-19,Frango,1816,Rio de Janeiro,Campina Grande,Caminhão Baú,Luiz Santos,4,Atrasado
+T262,2025-09-20,Peixe,1233,Salvador,São Paulo,Caminhão Frigorífico,Paula Rocha,20,Em trânsito
+T263,2025-09-21,Leite,2000,Belém,Recife,Caminhão Frigorífico,Maria Souza,4,Atrasado
+T264,2025-09-22,Frango,1950,Fortaleza,Belo Horizonte,Van Refrigerada,Maria Souza,5,Entregue
+T265,2025-09-23,Queijo,1884,Salvador,Curitiba,Van Refrigerada,Luiz Santos,9,Entregue
+T266,2025-09-24,Queijo,849,Manaus,Campina Grande,Van Refrigerada,Juliana Melo,7,Em trânsito
+T267,2025-09-25,Banana,1225,Porto Alegre,Campina Grande,Caminhão Frigorífico,Marcos Dias,8,Atrasado
+T268,2025-09-26,Banana,1364,Porto Alegre,Florianópolis,Caminhão Frigorífico,Maria Souza,7,Entregue
+T269,2025-09-27,Tomate,651,Brasília,São Paulo,Caminhão Baú,Paula Rocha,2,Entregue
+T270,2025-09-28,Peixe,1337,Caxias do Sul,Salvador,Van Refrigerada,Juliana Melo,16,Atrasado
+T271,2025-09-29,Feijão,525,Porto Alegre,Fortaleza,Caminhão Frigorífico,Fernando Reis,10,Em trânsito
+T272,2025-09-30,Carne,1703,Belém,Florianópolis,Caminhão Frigorífico,Paula Rocha,9,Em trânsito
+T273,2025-10-01,Banana,1805,Salvador,São Paulo,Caminhão Baú,João Silva,10,Em trânsito
+T274,2025-10-02,Maçã,1708,Natal,Belém,Van Refrigerada,Paula Rocha,4,Entregue
+T275,2025-10-03,Maçã,1629,Salvador,São Paulo,Caminhão Baú,Marcos Dias,16,Em trânsito
+T276,2025-10-04,Banana,509,Porto Alegre,Recife,Caminhão Frigorífico,Maria Souza,19,Em trânsito
+T277,2025-10-05,Peixe,778,Caxias do Sul,Belém,Caminhão Baú,Juliana Melo,14,Entregue
+T278,2025-10-06,Tomate,1368,Salvador,São Paulo,Caminhão Baú,Pedro Alves,20,Entregue
+T279,2025-10-07,Carne,1976,Salvador,Manaus,Caminhão Baú,Carlos Lima,13,Entregue
+T280,2025-10-08,Leite,1868,Rio de Janeiro,Fortaleza,Van Refrigerada,Luiz Santos,3,Em trânsito
+T281,2025-10-09,Frango,1708,Caxias do Sul,João Pessoa,Van Refrigerada,Luiz Santos,8,Em trânsito
+T282,2025-10-10,Feijão,1606,Salvador,Porto Alegre,Caminhão Baú,Fernando Reis,9,Atrasado
+T283,2025-10-11,Peixe,1581,Fortaleza,Salvador,Caminhão Frigorífico,Fernando Reis,20,Entregue
+T284,2025-10-12,Peixe,1110,João Pessoa,Belo Horizonte,Van Refrigerada,Marcos Dias,2,Em trânsito
+T285,2025-10-13,Peixe,835,Florianópolis,Curitiba,Van Refrigerada,Pedro Alves,15,Entregue
+T286,2025-10-14,Frango,753,Curitiba,Caxias do Sul,Van Refrigerada,Juliana Melo,4,Atrasado
+T287,2025-10-15,Carne,969,Fortaleza,Curitiba,Van Refrigerada,Juliana Melo,15,Em trânsito
+T288,2025-10-16,Maçã,1611,Recife,Curitiba,Caminhão Frigorífico,Luiz Santos,16,Em trânsito
+T289,2025-10-17,Banana,846,Porto Alegre,Rio de Janeiro,Caminhão Frigorífico,Paula Rocha,12,Entregue
+T290,2025-10-18,Feijão,659,Natal,Brasília,Caminhão Frigorífico,Luiz Santos,9,Em trânsito
+T291,2025-10-19,Banana,1589,Brasília,São Paulo,Caminhão Baú,Pedro Alves,8,Em trânsito
+T292,2025-10-20,Maçã,1204,Campina Grande,Belo Horizonte,Van Refrigerada,Fernando Reis,15,Atrasado
+T293,2025-10-21,Arroz,508,Recife,Natal,Caminhão Frigorífico,Ana Costa,16,Entregue
+T294,2025-10-22,Carne,1239,São Paulo,Brasília,Caminhão Baú,Paula Rocha,7,Atrasado
+T295,2025-10-23,Banana,997,João Pessoa,Natal,Caminhão Baú,Juliana Melo,6,Entregue
+T296,2025-10-24,Banana,933,Porto Alegre,Brasília,Van Refrigerada,Pedro Alves,20,Entregue
+T297,2025-10-25,Carne,859,Belo Horizonte,Belo Horizonte,Caminhão Frigorífico,Maria Souza,7,Em trânsito
+T298,2025-10-26,Frango,817,João Pessoa,São Paulo,Caminhão Baú,Fernando Reis,18,Em trânsito
+T299,2025-10-27,Maçã,1077,Salvador,Salvador,Caminhão Frigorífico,João Silva,10,Atrasado
+T300,2025-10-28,Leite,914,São Paulo,Caxias do Sul,Caminhão Frigorífico,Luiz Santos,2,Em trânsito
